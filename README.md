@@ -1,2 +1,7 @@
-# DeepLearning_model
-Implement basic deep learning model 
+# 기본적인 딥러닝 모델을 직접 구현
+
+
+- [ ] RNN
+- [ ] CNN
+- [ ] LSTM
+- [ ] 차후 추가 예정
